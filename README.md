@@ -2,10 +2,11 @@
 
 ## Sobre mim:
 
-- 🔭 I’m currently working on ...
+- 🔭 Graduando em Ciência da Computação pela UFV - *Campus* Florestal
 - 🌱 Aperfeiçoando minhas skills em Node.js
 - 👯 Procurando por novas experiências
-- 💬 Entre em contato
+
+## Stats 👨‍💻 📈:
 
 <div align="center">
   <br>
@@ -17,7 +18,7 @@
 
 ## Linguagens e Tecnologias 👨‍💻 🛠:
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <br>
   
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,21 +29,47 @@
   <img align="center" alt="Leo-Expressjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Leo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-## Me contate:
+<div align="center">
+  </br>
+  </br>
+  </br>
+  
+  <img align="center" alt="SkillsHackerman" src="https://github.com/leo-alvarenga/leo-alvarenga/blob/main/assets/skills.gif">
+</div>
 
-<div style="display: inline_block">
+## Me contate 📲 📨:
+
+<p>
   <br>
   
   <a href="mailto:leonardo.a.alvarenga@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img align="left" height="55" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/leonardo-a-alvarenga/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+    <img align="left" height="55" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
+  <img align="right" alt="ContatoAdama" src="https://github.com/leo-alvarenga/leo-alvarenga/blob/main/assets/contato.gif">
+  
+  </br>
+
+<!-- Ugliest thing Ive ever done  -->
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</p>
 
 *************
