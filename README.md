@@ -47,10 +47,10 @@
   <br>
   
   <a href="mailto:leonardo.a.alvarenga@gmail.com">
-    <img align="left" height="55" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img align="left" height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/leonardo-a-alvarenga/" target="_blank">
-    <img align="left" height="55" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img align="left" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
   <img align="right" alt="ContatoAdama" src="https://github.com/leo-alvarenga/leo-alvarenga/blob/main/assets/contato.gif">
