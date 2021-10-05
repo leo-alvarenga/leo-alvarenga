@@ -58,23 +58,4 @@
   </br>
 
 <!-- Ugliest thing Ive ever done  -->
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 </p>
-
-*************
