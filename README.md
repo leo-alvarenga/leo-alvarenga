@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 🔭 Graduando em Ciência da Computação pela UFV - *Campus* Florestal
-- 👨‍💻 Estagiário em _Cloud_ e _DevOps_ na [Vetta](https://vetta.com.br/pt)
+- 👨‍💻 Estagiário em _Cloud_ e _DevOps_ na [Vetta](https://vetta.digital/)
 - 🌱 Aperfeiçoando meu conhecimento em orquestração de contêineres com Kubernetes
 - 🌱 Estudando AWS _Cloud_
 - 🌱 Iniciando os estudos em _IaC_ com _Terraform_
