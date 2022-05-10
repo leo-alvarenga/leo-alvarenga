@@ -5,7 +5,10 @@
 ## Sobre mim
 
 - 🔭 Graduando em Ciência da Computação pela UFV - *Campus* Florestal
-- 🌱 Aperfeiçoando minhas skills em Next.js
+- 👨‍💻 Estagiário em _Cloud_ e _DevOps_ na [Vetta](https://vetta.com.br/pt)
+- 🌱 Aperfeiçoando meu conhecimento em orquestração de contêineres com Kubernetes
+- 🌱 Estudando AWS _Cloud_
+- 🌱 Iniciando os estudos em _IaC_ com _Terraform_
 - 👯 Procurando por novas experiências
 
 ## Stats 👨‍💻 📈:
@@ -36,6 +39,8 @@
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  <img align="center" alt="Leo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 <div align="center">
