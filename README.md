@@ -62,8 +62,6 @@
   <a href="https://www.linkedin.com/in/leonardo-a-alvarenga/" target="_blank">
     <img align="left" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-
-  <img align="left" alt="GopherCoffee" src="https://github.com/leo-alvarenga/leo-alvarenga/blob/main/assets/gopher-coffee.gif">
   
   <img align="right" alt="ContatoAdama" src="https://github.com/leo-alvarenga/leo-alvarenga/blob/main/assets/contato.gif">
   
