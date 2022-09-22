@@ -1,6 +1,6 @@
 # ✨ Olá! ✨  Eu sou Leonardo Alvarenga 👋
 
-## [Visite meu portfólio 📖](https://my-portfolio-gamma-neon.vercel.app/)
+## [Visite meu portfólio 📖](leo-alvarenga.github.io)
 
 ## Sobre mim
 
