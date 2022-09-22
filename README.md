@@ -1,6 +1,6 @@
 # ✨ Olá! ✨  Eu sou Leonardo Alvarenga 👋
 
-## [Visite meu portfólio 📖](leo-alvarenga.github.io)
+## [Visite meu portfólio 📖](https://leo-alvarenga.github.io/)
 
 ## Sobre mim
 
