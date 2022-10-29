@@ -1,14 +1,15 @@
-# ✨ Hello! ✨  I am Leonardo Alvarenga 👋
+# ✨ Olá! ✨ Eu sou Leonardo Alvarenga 👋
 
-## [Visit my portfolio 📖](https://leo-alvarenga.github.io/)
-## [Veja em português](https://github.com/leo-alvarenga/leo-alvarenga/blob/main/LEIAME.md)
+## [Visite meu portfólio 📖](https://leo-alvarenga.github.io/)
 
-## About me
+## [See in english](https://github.com/leo-alvarenga/leo-alvarenga/blob/main/README.md)
 
-- 🔭 CS Student at UFV - CAF
-- 👨‍💻 Intern Front-end Developer at [Vetta](https://vetta.digital/)
-- 🎓 Working on my Node.js knowledge
-- 👯 Always looking for new experiences
+## Sobre mim
+
+- 🔭 Graduando em Ciência da Computação pela UFV - _Campus_ Florestal
+- 👨‍💻 Estagiário em Desenvolvimento Front-end na [Vetta](https://vetta.digital/)
+- 🎓 Trabalhando em meu conhecimento em Node.js
+- 👯 Buscando novas oportunidades
 
 ## Stats 👨‍💻 📈:
 
@@ -20,7 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-alvarenga&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Technologies 👨‍💻 🛠:
+## Linguagens e Tecnologias 👨‍💻 🛠:
 
 <div align="center" style="display: inline_block">
   <br>
@@ -51,7 +52,7 @@
   <img align="center" alt="SkillsHackerman" src="https://github.com/leo-alvarenga/leo-alvarenga/blob/main/assets/skills.gif">
 </div>
 
-## Contact me 📲 📨:
+## Me contate 📲 📨:
 
 <p>
   <br>
