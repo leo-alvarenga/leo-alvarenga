@@ -7,8 +7,7 @@
 ## Sobre mim
 
 - 🔭 Graduando em Ciência da Computação pela UFV - _Campus_ Florestal
-- 👨‍💻 Estagiário em Desenvolvimento Front-end na [Vetta](https://vetta.digital/)
-- 🎓 Trabalhando em meu conhecimento em Node.js
+- 👨‍💻 Trainee em Desenvolvimento Front-end na [Vetta](https://vetta.digital/)
 - 👯 Buscando novas oportunidades
 
 ## Stats 👨‍💻 📈:
