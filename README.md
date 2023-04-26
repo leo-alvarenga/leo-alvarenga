@@ -6,8 +6,7 @@
 ## About me
 
 - 🔭 CS Student at UFV - CAF
-- 👨‍💻 Intern Front-end Developer at [Vetta](https://vetta.digital/)
-- 🎓 Working on my Node.js knowledge
+- 👨‍💻 Trainee Front-end Developer at [Vetta](https://vetta.digital/)
 - 👯 Always looking for new experiences
 
 ## Stats 👨‍💻 📈:
