@@ -1,6 +1,6 @@
 # ✨ Hello! ✨  I am Leonardo Alvarenga 👋
 
-## [Visit my portfolio 📖](https://leo-alvarenga.github.io/)
+## [Visit my portfolio 📖](https://leoalvarenga.dev/)
 ## [Veja em português](https://github.com/leo-alvarenga/leo-alvarenga/blob/main/LEIAME.md)
 
 ## About me
