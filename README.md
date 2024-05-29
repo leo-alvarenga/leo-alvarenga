@@ -5,8 +5,9 @@
 
 ## About me
 
-- 🔭 CS Student at UFV - CAF
-- 👨‍💻 Trainee Front-end Developer at [Vetta](https://vetta.digital/)
+- 👨‍🎓 System Development Analysis Technologist
+- 🔭 CS Student at Newton Paiva
+- 👨‍💻 FullStack Developer at [Vetta](https://vetta.digital/)
 - 👯 Always looking for new experiences
 
 ## Stats 👨‍💻 📈:
