@@ -7,7 +7,7 @@
 ## Sobre mim
 
 - 👨‍🎓 Analista Devenvolvedor de Sistemas
-- 🔭 Graduando em Ciência da Computação pela UFV - _Campus_ Florestal
+- 🔭 Graduando em Ciência da Computação pela Newton Paiva
 - 👨‍💻 Desenvolvedor FullStack na [Vetta](https://vetta.digital/)
 - 👯 Buscando novas oportunidades
 
