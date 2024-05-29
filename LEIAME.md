@@ -6,8 +6,9 @@
 
 ## Sobre mim
 
+- 👨‍🎓 Analista Devenvolvedor de Sistemas
 - 🔭 Graduando em Ciência da Computação pela UFV - _Campus_ Florestal
-- 👨‍💻 Trainee em Desenvolvimento Front-end na [Vetta](https://vetta.digital/)
+- 👨‍💻 Desenvolvedor FullStack na [Vetta](https://vetta.digital/)
 - 👯 Buscando novas oportunidades
 
 ## Stats 👨‍💻 📈:
