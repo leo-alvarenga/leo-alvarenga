@@ -7,7 +7,7 @@
 
 - 👨‍🎓 System Development Analysis Technologist
 - 🔭 CS Student at Newton Paiva
-- 👨‍💻 FullStack Developer at [Vetta](https://vetta.digital/)
+- 👨‍💻 Software Development Specialist
 - 👯 Always looking for new experiences
 
 ## Stats 👨‍💻 📈:
@@ -16,8 +16,8 @@
   <br>
 
   <a href="https://github.com/leo-alvarenga"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-alvarenga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-alvarenga&layout=compact&langs_count=7&theme=tokyonight"/>
+  ![leo-alvarenga's Stats](https://github-readme-stats.vercel.app/api?username=leo-alvarenga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![leo-alvarenga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-alvarenga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ## Technologies 👨‍💻 🛠:
@@ -40,7 +40,11 @@
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Leo-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   
+  <img align="center" alt="Leo-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg">
+  <img align="center" alt="Leo-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">
+  
   <img align="center" alt="Leo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Leo-K8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg">
 </div>
 
 <div align="center">
