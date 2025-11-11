@@ -6,10 +6,10 @@
 
 ## Sobre mim
 
-- 👨‍🎓 Analista Devenvolvedor de Sistemas
-- 🔭 Graduando em Ciência da Computação pela Newton Paiva
-- 👨‍💻 Desenvolvedor de Software Especialista
-- 👯 Buscando novas oportunidades
+- 👨‍💻 Especialista em Desenvolvimento de Software
+- 🏗️ Entusiasta de DevOps
+- 🐧 Linux advocate
+- 👯 Sempre ~~mexendo na minha configuração do NeoVim~~ em busca de novas experiências
 
 ## Stats 👨‍💻 📈:
 

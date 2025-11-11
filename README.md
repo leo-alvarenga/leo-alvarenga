@@ -5,10 +5,10 @@
 
 ## About me
 
-- 👨‍🎓 System Development Analysis Technologist
-- 🔭 CS Student at Newton Paiva
 - 👨‍💻 Software Development Specialist
-- 👯 Always looking for new experiences
+- 🏗️ DevOps enthusiast
+- 🐧 Linux advocate
+- 👯 Always ~~messsing around my NeoVim config~~ looking for new experiences
 
 ## Stats 👨‍💻 📈:
 
