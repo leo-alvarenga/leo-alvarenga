@@ -8,6 +8,7 @@
 - 👨‍💻 Software Development Specialist
 - 🏗️ DevOps enthusiast
 - 🐧 Linux advocate
+- 🎸 Metalhead
 - 👯 Always ~~messsing around my NeoVim config~~ looking for new experiences
 
 ## Stats 👨‍💻 📈:

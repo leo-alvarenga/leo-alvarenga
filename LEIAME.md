@@ -9,6 +9,7 @@
 - 👨‍💻 Especialista em Desenvolvimento de Software
 - 🏗️ Entusiasta de DevOps
 - 🐧 Linux advocate
+- 🎸 Metalhead
 - 👯 Sempre ~~mexendo na minha configuração do NeoVim~~ em busca de novas experiências
 
 ## Stats 👨‍💻 📈:
