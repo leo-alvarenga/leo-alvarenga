@@ -1,4 +1,4 @@
-# Leonardo Alvarenga
+![Leo Alvarenga](./assets/github-header-banner.png)
 
 Software engineer based in Belo Horizonte, Brazil. I work across the stack: React component systems and design systems on the front, Kubernetes/Terraform/Helm on the platform side, Node.js in between.
 
