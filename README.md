@@ -19,15 +19,10 @@ Software engineer based in Belo Horizonte, Brazil. I work across the stack: Reac
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,bash,nodejs,react,nextjs,express,nestjs,lua,docker,aws,azure&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,svelte,tailwind,nodejs,express,nestjs,postgres,fastapi,lua,bash,docker,aws,azure,terraform,kubernetes" />
   </a>
 </p>
 
-
-**Languages:** TypeScript · JavaScript · Bash · Lua
-**Frontend:** React · Next.js · Svelte · Astro · Tailwind CSS
-**Backend:** Node.js · PostgreSQL · Express · NestJS · FastAPI
-**Platform:** Docker · Kubernetes · Helm · Terraform · Azure DevOps
 
 ---
 
