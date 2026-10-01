@@ -16,28 +16,28 @@ Software engineer based in Belo Horizonte, Brazil. I work across the stack: Reac
 
 ## Stack
 
-<p align="center">
+<p align="left">
   <strong>Languages</strong><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,bash,lua" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Frontend</strong><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,svelte,tailwind" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Backend</strong><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <strong>DevOps & Infra</strong><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws,azure,terraform,kubernetes" />
