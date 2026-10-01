@@ -1,6 +1,10 @@
-# Leonardo Alvarenga
+![ASCII avatar](https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=leo-alvarenga&theme=ubuntu&color=1)
 
 Software engineer based in Belo Horizonte, Brazil. I work across the stack: React component systems and design systems on the front, Kubernetes/Terraform/Helm on the platform side, Node.js in between.
+
+---
+
+[leoalvarenga.dev](https://leoalvarenga.dev) · [LinkedIn](https://linkedin.com/in/leonardo-a-alvarenga)
 
 ---
 
@@ -43,10 +47,6 @@ Software engineer based in Belo Horizonte, Brazil. I work across the stack: Reac
     <img src="https://skillicons.dev/icons?i=docker,aws,azure,terraform,kubernetes" />
   </a>
 </p>
-
----
-
-[leoalvarenga.dev](https://leoalvarenga.dev) · [LinkedIn](https://linkedin.com/in/leonardo-a-alvarenga)
 
 ---
 
